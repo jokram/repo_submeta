@@ -1,2 +1,2 @@
-# jiri_meta
+# repo_meta
 Test repository for checking JIRI
