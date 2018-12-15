@@ -1,2 +1,2 @@
-# repo_meta
-Test repository for checking JIRI
+# repo_submeta
+Test repository for checking git-repo tool
