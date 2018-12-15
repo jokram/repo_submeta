@@ -3,8 +3,8 @@
   <remote name="origin" fetch="https://github.com/jokram" />
   <default revision="master" remote="origin" />
 
-  <project path="pkg/test1" name="jiri_test1.git" remote="origin" />
-
-  <project path="pkg/test2" name="jiri_test2.git" remote="origin" />
+  <project path="pkg/test1" name="jiri_test1.git" remote="origin">
+    <project path="pkg/test2" name="jiri_test2.git" remote="origin" />
+  </project>
 
 </manifest>
